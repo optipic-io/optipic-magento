@@ -1,0 +1,12 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <type name="Optipic\Optipic\Model\Optipic">
+        <arguments>
+            <argument name="dataHelper" xsi:type="object">Optipic\Optipic\Helper\Data</argument>
+        </arguments>
+    </type>
+    <type name="Optipic\Optipic\Observer\ChangeResponseObserver">
+        <arguments>
+            <argument name="optipic" xsi:type="object">Optipic\Optipic\Model\Optipic</argument>
+        </arguments>
+    </type>
+</config>

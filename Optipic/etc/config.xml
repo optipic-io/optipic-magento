@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <optipic>
+            <general>
+                <optipic_autoreplace_active>1</optipic_autoreplace_active>
+                <optipic_site_id></optipic_site_id>
+                <optipic_domains></optipic_domains>
+                <optipic_exclusions_url></optipic_exclusions_url>
+                <optipic_whitelist_img_urls></optipic_whitelist_img_urls>
+                <optipic_srcset_attrs></optipic_srcset_attrs>
+                <optipic_cdn_domain>cdn.optipic.io</optipic_cdn_domain>
+            </general>
+        </optipic>
+    </default>
+</config>

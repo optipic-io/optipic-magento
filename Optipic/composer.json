@@ -1,0 +1,14 @@
+{
+    "name": "optipic/optipic",
+    "description": "OptiPic.io - image optimization via smart CDN. OptiPic automates the process of optimizing/compressing and converting WebP all images on the site according to the recommendations of Google PageSpeed Insights.",
+    "type": "magento2-module",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Optipic\\Optipic\\": ""
+        }
+    },
+    "version": "1.19.0"
+}
