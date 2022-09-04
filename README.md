@@ -4,7 +4,8 @@
 
 [![Download](https://optipic.io/images/download-button.png)](https://github.com/optipic-io/optipic-magento/releases/download/v1.19.0/Optipic.zip)
 
-## How to convert to WebP all the images on the Magento> CDN OptiPic — simple solution to the problem "Serve images in next-gen formats"
+## How to convert to WebP all the images on the Magento 
+> CDN OptiPic — simple solution to the problem "Serve images in next-gen formats"
 
 - [181 reviews](https://optipic.io/en/cdn/reviews/) ⭐⭐⭐⭐⭐
 - According to recommendations Google PageSpeed Insights
