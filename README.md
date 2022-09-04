@@ -8,8 +8,7 @@
 
 - [181 reviews](https://optipic.io/en/cdn/reviews/) ⭐⭐⭐⭐⭐
 - According to recommendations Google PageSpeed Insights
-- [Easy connection in 5 minutes](https://www.youtube.com/watch?v=)
-- [Video instruction in 2 minutes](https://www.youtube.com/watch?v=)
+- Easy connection in 5 minutes
 - [Free technical support + installation help](https://optipic.io/get-free-help/?cdn=1)
 
 ## Smart WebP convertation on the fly
@@ -28,8 +27,6 @@ If the optimized version is not yet ready at the time of the image request, the 
 
 [![Download](https://optipic.io/images/download-button.png)](https://github.com/optipic-io/optipic-magento/releases/download/v1.19.0/Optipic.zip)
 
-## Video instruction for configuring the module Magento
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=)
 
 ## 5 easy steps to connect WebP to Magento
 ### Step #1: Download plugin Magento WebP
