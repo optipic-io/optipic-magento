@@ -1,6 +1,10 @@
 # WebP convert images Magento in 2 clicks - OptiPic CDN ready plugin
 
-> Fully automated process for converting all png and jpeg images to WebP format to the requirements of Google Pagespeed Insights. Solves the problem 'Serve images in next-gen formats'. Easy connection to Magento.
+> Fully automated process for converting all png and jpeg images to WebP format to the requirements of Google Pagespeed Insights.  
+> Solves the problem "Serve images in next-gen formats".  
+> Easy connection to Magento. 
+
+[https://optipic.io/en/webp/magento/](https://optipic.io/en/webp/magento/)
 
 [![Download](https://optipic.io/images/download-button.png)](https://github.com/optipic-io/optipic-magento/releases/download/v1.19.0/Optipic.zip)
 
@@ -30,6 +34,7 @@ If the optimized version is not yet ready at the time of the image request, the 
 
 
 ## 5 easy steps to connect WebP to Magento
+
 ### Step #1: Download plugin Magento WebP
 Download and install the official CDN OptiPic plugin for Magento on your site.
 
