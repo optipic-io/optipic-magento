@@ -4,6 +4,23 @@
 > Solves the problem "Serve images in next-gen formats".  
 > Easy connection to Magento. 
 
+<sup>|</sup>
+<sup>[English](https://optipic.io/en/webp/magento/) | </sup>
+<sup>[Español](https://optipic.io/es/webp/magento/) | </sup>
+<sup>[Deutsch](https://optipic.io/de/webp/magento/) | </sup>
+<sup>[Türk](https://optipic.io/tr/webp/magento/) | </sup>
+<sup>[Français](https://optipic.io/fr/webp/magento/) | </sup>
+<sup>[Italiano](https://optipic.io/it/webp/magento/) | </sup>
+<sup>[Português](https://optipic.io/pt/webp/magento/) | </sup>
+<sup>[Polski](https://optipic.io/pl/webp/magento/) | </sup>
+<sup>[Čeština](https://optipic.io/cz/webp/magento/) | </sup>
+<sup>[Русский](https://optipic.io/ru/webp/magento/) | </sup>
+<sup>[Беларуская](https://optipic.io/by/webp/magento/) | </sup>
+<sup>[中国](https://optipic.io/cn/webp/magento/) | </sup>
+<sup>[日本](https://optipic.io/jp/webp/magento/) | </sup>
+<sup>[বেঙ্গল](https://optipic.io/bn/webp/magento/) | </sup>
+<sup>[한국인](https://optipic.io/ko/webp/magento/) | </sup>
+
 [https://optipic.io/en/webp/magento/](https://optipic.io/en/webp/magento/)
 
 [![Download](https://optipic.io/images/download-button.png)](https://github.com/optipic-io/optipic-magento/releases/download/v1.19.0/Optipic.zip)
